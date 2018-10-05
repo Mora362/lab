@@ -172,6 +172,16 @@ div.header{
 background-color: 9B9B9B;
 }
 
+div.a{
+background-color: 9B9B9B;
+   border: 1px solid black;
+    background-color: EEEBEB;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
 body{
    background-color: #808080;
    text-align: center;
