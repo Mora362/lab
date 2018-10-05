@@ -191,6 +191,10 @@ background-color: 9B9B9B;
    display: inline-block;
    text-allign: center; 
 }
+#submit{
+    display: inline-block;
+   text-allign: center; 
+}
 
 
 
@@ -210,7 +214,8 @@ background-color: gray;
 
 
 li{
-text-allign: center; 
+    display: inline-block;
+   text-allign: center; 
 }
 
 body{
