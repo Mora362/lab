@@ -215,3 +215,14 @@ text-allign: center;}
 li{
 text-allign: center; 
 }
+
+#content{
+   background-color: gray;
+   border: 1px solid black;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+   text-allign: center; 
+   display: inline-block;
+}
