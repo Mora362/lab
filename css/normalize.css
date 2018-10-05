@@ -169,11 +169,12 @@ textarea {
 }
 
 div.header{
-background-color: blue;
-text-align: center;
+background-color: 9B9B9B;
 }
 
-main{
+body{
    background-color: #808080;
-text-align: center;
+   text-align: center;
 }
+
+
