@@ -188,7 +188,7 @@ background-color: 9B9B9B;
   
 }
 #input-submit{
-background-color: 9B9B9B;
+background-color: transparent;
    display: inline-block;
    text-allign: center; 
    display: flex; 
@@ -203,7 +203,7 @@ background-color: #B5B5B5;
 }
 
 label{
-background-color: gray;
+background-color: transparent;
 text-allign: left; 
 color: red; 
 }
