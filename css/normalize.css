@@ -209,6 +209,11 @@ background-color: gray;
    display: inline-block;
 }
 
+#e_label{
+   text-allign: left; 
+   color: red; 
+}
+
 h1,p{
 text-allign: center;}
 
