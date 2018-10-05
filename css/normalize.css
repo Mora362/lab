@@ -191,11 +191,9 @@ background-color: 9B9B9B;
 
 
 
-div.btn{
-background-color: gray;
-   border: 1px solid black;
-   text-allign: center;
-   display: inline-block;
+#header{
+background-color: #B5B5B5;
+  text-align: center; 
 }
 
 label{
@@ -207,8 +205,6 @@ background-color: gray;
    color: red; 
 }
 
-h1,p{
-text-allign: center;}
 
 li{
 text-allign: center; 
