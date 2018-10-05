@@ -190,10 +190,14 @@ background-color: 9B9B9B;
 background-color: 9B9B9B;
    display: inline-block;
    text-allign: center; 
+   display: flex; 
+   justify-content: center;
 }
 #submit{
     display: inline-block;
    text-allign: center; 
+   display: flex; 
+   justify-content: center;
 }
 
 
@@ -230,5 +234,4 @@ body {
     padding: 10px;
 }
 
-#btn{
-text-allign: center; }
+#btn{ display: flex; justify-content: center; }
