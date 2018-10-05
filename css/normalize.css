@@ -175,13 +175,17 @@ textarea {
 
 #input-email{
 background-color: #F5F5F5;
-text-allign: center; 
+text-allign: center;
+display: flex; 
+justify-content: center;
 }
 
 
 #input-age-verification{
 background-color: #F5F5F5;
-text-allign: center; 
+text-allign: center;
+display: flex; 
+justify-content: center;
 
   
 }
