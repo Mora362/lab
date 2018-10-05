@@ -218,15 +218,15 @@ li{
    text-allign: center; 
 }
 
-body{
-   background-color: gray;
-   border: 1px solid black;
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
-   text-allign: center; 
-   display: inline-block;
+body {
+    background: #555;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
 }
 
 #btn{
