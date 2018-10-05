@@ -27,6 +27,7 @@ textarea {
 button,
 input { /* 1 */
   overflow: visible;
+   display: inline-block;
 }
 
 /**
@@ -37,6 +38,7 @@ input { /* 1 */
 button,
 select { /* 1 */
   text-transform: none;
+   display: inline-block;
 }
 
 /**
@@ -184,6 +186,7 @@ background-color: 9B9B9B;
 }
 #input-submit{
 background-color: 9B9B9B;
+   display: inline-block;
 }
 
 
@@ -192,6 +195,7 @@ div.btn{
 background-color: gray;
    border: 1px solid black;
    text-allign: center;
+   display: inline-block;
 }
 
 label{
@@ -201,9 +205,11 @@ background-color: gray;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
-   text-allign: right; 
+   text-allign: center; 
+   display: inline-block;
 }
 
 h1{
-text-allign: center;}
+text-allign: center;
+display: inline-block;}
 
