@@ -221,6 +221,12 @@ body {
     justify-content: center; 
 }
 
+h1, p {
+    background: gray;
+    text-allign: center; 
+   
+}
+
 .content {
     max-width: 500px;
     margin: auto;
