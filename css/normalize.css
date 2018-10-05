@@ -221,6 +221,9 @@ li{
     display: flex; 
     justify-content: center; 
 }
+h1.content{
+    text-allign: center; 
+}
 
 ol{
     display: inline-block;
@@ -242,3 +245,4 @@ body {
     display: table-cell;
     vertical-align: middle;
 }
+
