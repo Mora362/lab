@@ -292,5 +292,11 @@ body {
 form {
     display: inline-block;
 }
+p{
+    font-family: "Times New Roman", Times, serif;
+}
 
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
 /* ===== STATE STYLES ======= */
