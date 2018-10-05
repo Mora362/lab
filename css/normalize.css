@@ -209,9 +209,8 @@ background-color: gray;
    display: inline-block;
 }
 
-h1{
-text-allign: center;
-display: inline-block;}
+h1,p{
+text-allign: center;}
 
 li{
 text-allign: center; 
