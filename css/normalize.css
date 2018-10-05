@@ -216,7 +216,7 @@ li{
 text-allign: center; 
 }
 
-#content{
+body{
    background-color: gray;
    border: 1px solid black;
     padding-top: 50px;
