@@ -293,7 +293,9 @@ form {
     display: inline-block;
 }
 p{
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Charmonman', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     color: red;
 }
 
