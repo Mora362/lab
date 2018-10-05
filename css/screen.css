@@ -294,9 +294,11 @@ form {
 }
 p{
     font-family: "Times New Roman", Times, serif;
+    color: orange;
 }
 
 h1{
     font-family: Arial, Helvetica, sans-serif;
+    color: blue;
 }
 /* ===== STATE STYLES ======= */
