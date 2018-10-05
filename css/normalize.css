@@ -228,11 +228,10 @@ h1, p {
 }
 
 #content {
-    max-width: 500px;
-    margin: auto;
-    background: white;
-    padding: 10px;
+    background: #C0C0C0;
     text-allign: center; 
+    display: flex; 
+    justify-content: center; 
 }
 
 ol{
