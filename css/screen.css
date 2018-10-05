@@ -395,28 +395,28 @@ label {
 
 #content {
   background: #C0C0C0;
-  text-allign: center;
+  text-align: center;
   display: flex;
   justify-content: center;
 }
 
 #input-email {
   background-color: #F5F5F5;
-  text-allign: center;
+  text-align: center;
   display: flex;
   justify-content: center;
 }
 
 #input-age-verification {
   background-color: #F5F5F5;
-  text-allign: center;
+  text-align: center;
   display: flex;
   justify-content: center;
 }
 
 #input-submit {
   background-color: transparent;
-  text-allign: center;
+  text-align: center;
   display: flex;
   justify-content: center;
 }
@@ -428,12 +428,12 @@ label {
 
 label {
   background-color: transparent;
-  text-allign: left;
+  text-align: left;
   color: red;
 }
 
 li {
-  text-allign: center;
+  text-align: center;
   display: flex;
   justify-content: center;
 }
@@ -443,12 +443,12 @@ li {
 
 label {
   background-color: transparent;
-  text-allign: left;
+  text-align: left;
   color: red;
 }
 
 li {
-  text-allign: center;
+  text-align : center;
   display: flex;
   justify-content: center;
 }
