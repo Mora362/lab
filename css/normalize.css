@@ -194,12 +194,6 @@ background-color: 9B9B9B;
    display: flex; 
    justify-content: center;
 }
-#submit{
-    display: inline-block;
-   text-allign: center; 
-   display: flex; 
-   justify-content: center;
-}
 
 
 
@@ -210,22 +204,21 @@ background-color: #B5B5B5;
 
 label{
 background-color: gray;
+text-allign: left; 
+color: red; 
 }
-
-#e_label{
-   text-allign: left; 
-   color: red; 
-}
-
 
 li{
-    display: inline-block;
    text-allign: center; 
+   display: flex; 
+   justify-content: center;
 }
 
 body {
     background: #555;
-   text-allign: center; 
+    text-allign: center; 
+    display: flex; 
+    justify-content: center; 
 }
 
 .content {
