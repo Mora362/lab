@@ -227,11 +227,12 @@ h1, p {
    
 }
 
-.content {
+#content {
     max-width: 500px;
     margin: auto;
     background: white;
     padding: 10px;
+    text-allign: center; 
 }
 
 ol{
