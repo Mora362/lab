@@ -221,14 +221,6 @@ li{
     display: flex; 
     justify-content: center; 
 }
-h1{
-    text-allign: center; 
-}
-
-p{
-   text-allign: center; 
-}
-
 
 ol{
     display: inline-block;
@@ -237,7 +229,7 @@ ol{
 }
 
 
-html, body {
+html{
     height: 100%;
 }
 
@@ -247,7 +239,10 @@ html {
 }
 
 body {
-    display: table-cell;
-    vertical-align: middle;
+   display: table-cell;
+   text-align: center;
 }
 
+form {
+    display: inline-block;
+}
