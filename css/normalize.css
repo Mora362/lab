@@ -168,7 +168,7 @@ textarea {
   font: inherit; /* 2 */
 }
 
-#header{
-text-allign: center; 
-background-color: blue; 
+div.header{
+background-color: blue;
+text-align: center;
 }
